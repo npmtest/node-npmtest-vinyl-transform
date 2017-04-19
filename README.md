@@ -1,6 +1,6 @@
 # npmtest-vinyl-transform
 
-#### test coverage for  [vinyl-transform (v1.0.0)](https://github.com/hughsk/vinyl-transform)  [![npm package](https://img.shields.io/npm/v/npmtest-vinyl-transform.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-vinyl-transform) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-vinyl-transform.svg)](https://travis-ci.org/npmtest/node-npmtest-vinyl-transform)
+#### basic test coverage for  [vinyl-transform (v1.0.0)](https://github.com/hughsk/vinyl-transform)  [![npm package](https://img.shields.io/npm/v/npmtest-vinyl-transform.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-vinyl-transform) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-vinyl-transform.svg)](https://travis-ci.org/npmtest/node-npmtest-vinyl-transform)
 
 #### Use standard text transform streams to write fewer gulp plugins
 
